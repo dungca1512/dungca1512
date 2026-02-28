@@ -1,61 +1,53 @@
-# Hi there, I'm Dũng 👋
+# Hi there, I'm Dung 👋
 
-## 🚀 AI/ML Engineer | Infrastructure Enthusiast | Language Tech Explorer
+## AI/ML Engineer | LLM Infrastructure | Language Technology
 
-I'm an AI/ML engineer passionate about building scalable AI systems, exploring cutting-edge research, and creating practical solutions for real-world problems. Currently diving deep into multi-agent systems, model orchestration, and DevOps automation.
+I build production-focused AI systems that balance model capability with engineering reliability.
 
-### 💼 What I'm Working On
+### What I Build
 
-- **🤖 AI Gateway System**: Orchestrating multiple AI providers (OpenAI, Gemini, Claude, local models) with Java Spring Boot WebFlux & Python FastAPI
-- **📚 Japanese Language Learning Platform**: Comprehensive content generation system with advanced tokenization and natural sentence generation
-- **🔧 DevOps Incident Response System**: Building automated alert triage and root cause analysis using MCP, A2A protocol, LangChain, and LangGraph
-- **☸️ Infrastructure & Deployment**: Learning Kubernetes deployment and implementing CI/CD pipelines with GitHub Actions
+- **AI Gateway Platform**  
+  Unified API for OpenAI, Gemini, Claude, and local models with routing, fallback/retry, rate limiting, caching, and observability.
+- **Research Agent Workflows**  
+  LangChain + LangGraph pipelines for iterative web/arXiv retrieval and structured report generation.
+- **Speech/NLP Systems**  
+  Whisper Tiny Japanese ASR fine-tuning pipelines with reproducible training/export workflows.
+- **Data + Recommendation Infrastructure**  
+  Streaming and analytics architecture with Scala, Kafka, Spark, embeddings, clustering, and API serving.
 
-### 🛠️ Tech Stack
+### Selected Projects
 
-**Languages & Frameworks**
-- Python (FastAPI, LangChain, LangGraph, Transformers)
-- Java (Spring Boot WebFlux)
-- Docker & Docker Compose
-- Kubernetes (learning)
+- [ai-gateway](https://github.com/dungca1512/ai-gateway)
+- [research-agent](https://github.com/dungca1512/research-agent)
+- [whisper-finetune-ja](https://github.com/dungca1512/whisper-finetune-ja)
+- [newspulse-reco-engine](https://github.com/dungca1512/newspulse-reco-engine)
 
-**AI/ML**
-- Multi-model orchestration (OpenAI, Gemini, Claude, local models)
-- Fine-tuning & quantization (LoRA, QLoRA, ONNX)
-- Translation systems (Vietnamese-Japanese, English-Indonesian)
-- NLP & tokenization (SudachiPy, MeCab)
-- RAG systems (UltraRAG framework)
+### Tech Stack
 
-**DevOps & Infrastructure**
-- CI/CD with GitHub Actions
-- Container orchestration
-- Model Context Protocol (MCP)
-- Multi-GPU optimization
+- **Languages/Frameworks:** Python, Java (Spring Boot WebFlux), FastAPI, LangChain, LangGraph, Transformers
+- **AI/ML:** Multi-model orchestration, RAG, fine-tuning/quantization (LoRA, QLoRA), NLP tokenization (SudachiPy, MeCab)
+- **Infra/DevOps:** Docker, Kubernetes, GitHub Actions, MCP, distributed inference optimization
+- **Domains:** LLM infrastructure, agent systems, Vietnamese/Japanese language technology
 
-**Development Environment**
-- MacBook Pro M4
-- PyCharm, IntelliJ IDEA
-- Docker Desktop
+### Research Interests
 
-### 🔬 Research Interests
-
-- Multi-agent systems and Agent-to-Agent (A2A) protocols
-- World models and Chain of Thought prompting
-- Mobile AI deployment (0.5B-1.5B parameter models)
+- Multi-agent systems and A2A protocols
+- LLM reliability and orchestration at production scale
+- Mobile/edge AI deployment
 - Southeast Asian language processing
-- Model optimization and quantization techniques
 
-### 🌱 Currently Learning
+### Currently Learning
 
-- Advanced Kubernetes deployment strategies
-- Protocol optimization (WebSocket vs HTTP for AI Gateway)
-- Direct Preference Optimization (DPO) and RLHF
-- Apple FastVLM and mobile AI architectures
+- Advanced Kubernetes deployment patterns
+- DPO/RLHF training workflows
+- Efficient model serving and protocol design for AI gateways
 
-### 📫 Let's Connect
+### Let's Connect
 
-I'm always interested in discussing AI research, infrastructure challenges, and Southeast Asian language technology. Feel free to reach out!
+- Email: **dungca1512@gmail.com**
+- GitHub: **[dungca1512](https://github.com/dungca1512)**
+- LinkedIn: **[in/dungca](https://www.linkedin.com/in/dungca/)**
 
 ---
 
-💡 *"Building bridges between cutting-edge AI research and production-ready systems"*
+*Building practical bridges between frontier AI research and production-grade systems.*
