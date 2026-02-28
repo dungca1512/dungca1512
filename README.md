@@ -46,7 +46,7 @@ I build production-focused AI systems that balance model capability with enginee
 
 - Email: **dungca1512@gmail.com**
 - GitHub: **[dungca1512](https://github.com/dungca1512)**
-- LinkedIn: **[in/dungca](https://www.linkedin.com/in/dungca/)**
+- LinkedIn: **[dungca](https://www.linkedin.com/in/dungca/)**
 
 ---
 
