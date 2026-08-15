@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="assets/homelab-banner.jpeg" alt="Cozy homelab — Proxmox, TrueNAS, Portainer, Pi-hole, Grafana, Uptime Kuma" width="100%">
+</p>
+
 # Hi there, I'm Dung 👋
 
 ## AI/ML Systems Architect | Infrastructure & MLOps | Language Technology
+
+<img align="right" width="360" src="assets/lofi-coding.gif" alt="Developer coding with headphones on">
 
 I own AI infrastructure end-to-end — from cloud provisioning to production ML serving. CLI-first, cost-conscious, and framework-driven in every decision.
 
