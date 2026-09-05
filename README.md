@@ -89,7 +89,7 @@ I own AI infrastructure end-to-end — from cloud provisioning to production ML 
 
 ### Let's Connect
 
-- Email: **dungca1512@gmail.com**
+- Email: **dungca@ai-innovation-homelab.org**
 - GitHub: **[dungca1512](https://github.com/dungca1512)**
 - LinkedIn: **[dungca](https://www.linkedin.com/in/dungca/)**
 
